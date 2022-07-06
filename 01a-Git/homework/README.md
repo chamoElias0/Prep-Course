@@ -19,7 +19,7 @@ Dentro de nuestra terminal podemos: revisar nuestra estructura de archivos, aña
 ```bash
   $ ls
 ```
-
+sdsds
 
 "Change Directory": Nos permite movernos a una nueva carpeta o "directorio"
 ```bash
